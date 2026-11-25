@@ -1,0 +1,51 @@
+div#container{width: 1440px; 
+    margin: 0 auto;
+    background-color: #2B2B2B;}
+header{background-color: #161F26; 
+            color:#F2F2F2; 
+            text-align: center;
+            padding:150px 0px 110px 0px;}
+header a{text-decoration: none;
+        color:#F2F2F2;}
+header h1 {font-family: 'Impact';
+                    font-size: 3.5rem;
+            margin-bottom: -10px;}
+header h2 {font-family: 'Arial', sans-serif;
+                    font-weight: 100;
+                    font-size: 1.3rem;}
+article.musico{background-color: #736862;
+                    padding: 70px 0px 70px 70px;
+                    height: 417px;
+                    color:#F2F2F2;
+                    clear: both; 
+                    margin-bottom: 200px;}
+article.musico img{float:left; margin-right: 300px;}
+article#infoDelMusico{background-color: #736862;
+                    padding: 70px 0px 70px 70px;
+                    height: 417px;
+                    color:#F2F2F2;}
+article#infoDelMusico img{float:left; margin-right: 300px;}
+div#video{clear:both;}
+
+/*----- inicia el CSS del NAV de redes -----*/
+nav#redesjugador{background-color: #f2f2f2;
+        padding:50px 100px 200px 250px;}
+nav#redesjugador p{color:#000;
+        font-size: 1.8rem;
+        font-family: 'Arial', sans-serif;
+        font-weight: 900;
+        float:left;
+        margin-right:300px;}
+nav#redesjugador a{margin-right: 20px;}
+
+/*----- inicia el CSS del FOOTER -----*/
+
+footer{background-color: #161F26;
+        padding:180px 100px 110px 100px;}
+footer p{color:#f2f2f2;
+        font-size: 1.5rem;
+        font-family: 'Arial', sans-serif;
+        font-weight: 200;
+        float:left;
+        margin-right:600px;}
+footer a{margin-right: 20px;}
